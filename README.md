@@ -2,8 +2,11 @@ DisplayTagAjax
 ==============
 
 REQUIRES:
-1) jQuery <www.jquery.com>
-2) DisplayTag <www.displaytag.org>
+
+1) jQuery <http://www.jquery.com>
+
+2) DisplayTag <http://www.displaytag.org>
+
 3) a url http that returns a rendered displaytag syntax table
 
 jQuery plugin for ajaxifying display tag tables (pagination and ordering via ajax)
